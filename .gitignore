@@ -1,0 +1,21 @@
+# OS / system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+
+# Node (in case http-server is used locally)
+node_modules/
+
+# Environment files (never commit secrets)
+.env
+.env.local
+.env.*.local
